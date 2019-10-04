@@ -1,2 +1,2 @@
-python code: new
-new code :python n
+input="something"
+a=10
